@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUSKAN PATHAN</h1>
-<h3 align="center">Certainly, here's a career objective"As a beginner in artificial intelligence and data science, my career objective is to kickstart my journey by gaining practical experience and applying my foundational knowledge. I am eager to learn, contribute, and develop my skills in machine learning, data analysis, and problem-solving. I am seeking entry-level opportunities in a supportive environment where I can grow as a data scientist and make meaningful contributions to projects."</h3>
+<h3 align="center">"As a beginner in artificial intelligence and data science, my career objective is to kickstart my journey by gaining practical experience and applying my foundational knowledge. I am eager to learn, contribute, and develop my skills in machine learning, data analysis, and problem-solving. I am seeking entry-level opportunities in a supportive environment where I can grow as a data scientist and make meaningful contributions to projects."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
